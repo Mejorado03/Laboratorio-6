@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(214, 184, 214);
+}
+#carouselExampleControls{
+    margin: 140px;
+}
+#piedef{
+    font-size: x-large;
+    background-color: rgb(211, 198, 211);
+}
+#primeraf{
+    margin-left: 300px;
+}
+.p-2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}

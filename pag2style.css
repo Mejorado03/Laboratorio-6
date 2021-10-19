@@ -1,0 +1,56 @@
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sunrise_in_Xochimilco_%28Amanecer_en_Xochimilco%29_2.jpg/1024px-Sunrise_in_Xochimilco_%28Amanecer_en_Xochimilco%29_2.jpg);
+    background-size: cover;
+
+}
+#container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+      }
+      
+#container div {
+        width: 50%;
+        padding: 30px;
+}
+p {
+    background-color:rgb(204, 132, 65);
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-align: center;
+
+}
+#button{
+    background-color: rgb(204, 132, 65);
+    border-color: rgb(204, 132, 65);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    margin-left: 30px;
+}
+#staticBackdropLabel{
+    color: black;
+ }
+#staticBackdrop{
+    background-image: url(https://misanimales.com/wp-content/uploads/2020/11/ajolote-peligro-extincion.jpg);
+    background-size: cover;
+}
+.modal-body{
+    background-color: plum;
+}
+.modal-header{
+    background-color: plum;
+}
+.modal-footer{
+    background-color: plum;
+}
+#button2{
+    background-color: powderblue;
+}
+#button3{
+    background-color: powderblue;
+}

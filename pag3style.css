@@ -1,0 +1,82 @@
+body{
+    background-image:url(https://blogs.uninter.edu.mx/ENDECS/wp-content/uploads/2020/08/Genoma-humano.jpg);
+    background-size: cover;
+}
+#orgmodelo{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+}
+#imagen3{
+    margin-left: 435px;
+    margin-bottom: 30px;
+    border: black;
+    border-style:groove;
+    border-radius: 20px;
+}
+#imagen2{
+    margin-left: 435px;
+   margin-bottom: 30px;
+   border: black;
+   border-style:groove;
+   border-radius: 20px;
+}
+#imagen1{
+    margin-left: 435px;
+   margin-bottom: 30px;
+   border: black;
+   border-style:groove;
+   border-radius: 20px;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-justify: auto;
+    text-align: center;
+}
+#navbar-example3{
+    color: black;
+}
+#conjunto{
+    padding: 20px;
+    text-justify: auto;
+}
+#item-1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    font-size: 40px;
+}
+#item-1-1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    font-size: 35px;
+}
+#item-2{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    font-size: 40px;
+}
+#item-2-1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    font-size: 35px;
+}
+#item-2-2{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    font-size: 35px;
+}
+#item-2-3{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    font-size: 35px;
+}
+#orgmodelo1{
+    color: black;
+}
+#menú{
+    color: black;
+}
+#neoteny{
+    color: rgb(61, 61, 219);
+    background-color: transparent;
+}
